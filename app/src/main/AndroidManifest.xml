@@ -18,6 +18,9 @@
 
 <!--
 konfigureMapLa
+Con esto le decimos al proyecto que ya tenemos una api key y
+que el valor de esta está alojada en el recurso de
+tipo string con nombre google_maps_key.
 -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"

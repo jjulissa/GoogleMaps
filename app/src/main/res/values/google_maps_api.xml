@@ -9,4 +9,8 @@
 templateMergeStrategy="perserve" translatable="false"
 Pou nenpot Usuario kipral use li a, paka tradwil,
 lapRete nan Lang ou fel la
+
+Este será el contenido de nuestro fichero, vamos a analizarlo.
+Hemos creado un recurso de tipo string, llamado google_maps_key en cual
+contendrá nuestra api key. Debemos sustituir la palabra KEY por nuestra api key.
 -->
