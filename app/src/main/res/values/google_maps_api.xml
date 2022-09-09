@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="google_maps_key" templateMergeStrategy="perserve" translatable="false" > AIzaSyAis6q6AVbYj2Bd0V8wH-po_dDV3DLyM1s</string>
+
+</resources>
+
+<!--
+templateMergeStrategy="perserve" translatable="false"
+Pou nenpot Usuario kipral use li a, paka tradwil,
+lapRete nan Lang ou fel la
+-->
